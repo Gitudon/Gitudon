@@ -8,6 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 📫 How to reach me: [Twitter - @KoYuki_UdododoN](https://x.com/KoYuki_UdododoN)
+- Qiita: [Q_Udon - Qiita](https://qiita.com/Q_Udon)
 <br>
 
 
