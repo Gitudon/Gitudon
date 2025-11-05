@@ -21,6 +21,7 @@
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gitudon&theme=light)](https://git.io/streak-stats)
 <div align="left">
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Gitudon&theme=light&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitudon&theme=light&layout=compact" />
