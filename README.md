@@ -15,7 +15,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,md,latex,astro,vite,react,git,github,gitlab,bitbucket,php,django,flask,py,c,cpp,ruby,rails,js,ts,vscode,windows,linux,raspberrypi,docker,gmail,discord,npm,nodejs,mysql,aws,sqlite,java,cmake"/>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,md,latex,astro,vite,react,git,github,gitlab,bitbucket,php,django,flask,py,c,cpp,ruby,rails,js,ts,vscode,windows,linux,raspberrypi,docker,gmail,discord,npm,nodejs,mysql,aws,postgres,java,cmake"/>
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
