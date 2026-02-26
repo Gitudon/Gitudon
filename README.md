@@ -24,7 +24,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Gitudon&theme=light)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitudon&show_icons=true&theme=light)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitudon&show_icons=true&theme=light) -->
 
 ## Status
 
