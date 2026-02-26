@@ -28,7 +28,7 @@
 
 ## Status
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gitudon&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gitudon&theme=github&utcOffset=9)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gitudon&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gitudon&theme=github)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gitudon&theme=github)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gitudon&theme=github&utcOffset=9)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gitudon&theme=github)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gitudon&theme=github)
